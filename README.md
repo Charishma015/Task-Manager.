@@ -18,7 +18,10 @@ A **Full Stack Task Manager App** built with **React (Frontend)**, **Node.js (Ba
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Version Control**: Git & GitHub  
-
+**Version Control**: Git & GitHub  
+**Version Control**: Git & GitHub  
+**Version Control**: Git & GitHub
+  
 ---
 
 ## 📂 Folder Structure
